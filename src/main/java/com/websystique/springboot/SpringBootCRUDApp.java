@@ -1,4 +1,5 @@
 package com.websystique.springboot;
+//XXX:http://websystique.com/spring-boot/spring-boot-angularjs-spring-data-jpa-crud-app-example/
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
